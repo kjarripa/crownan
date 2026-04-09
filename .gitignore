@@ -1,0 +1,34 @@
+# Secrets
+.env.local
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Testing & linting
+.pytest_cache/
+.coverage
+.mypy_cache/
+.ruff_cache/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Docs build
+site/
+
+# Local-only (not part of the open-source project)
+experiments/
+ai_docs/
+.claude/
+
+# Agent config (generated per-user)
+~/.crownan/

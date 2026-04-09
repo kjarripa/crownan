@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Krónan API Documentation
+    url: https://api.kronan.is/api/v1/schema/redoc/
+    about: Official Krónan API documentation
