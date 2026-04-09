@@ -75,7 +75,7 @@ CUSTOM_TOOLS = [
                 },
             },
             "required": ["query"],
-            "additionalProperties": False,
+
         },
     },
     {
@@ -93,7 +93,7 @@ CUSTOM_TOOLS = [
                 }
             },
             "required": ["sku"],
-            "additionalProperties": False,
+
         },
     },
     {
@@ -103,7 +103,7 @@ CUSTOM_TOOLS = [
         "input_schema": {
             "type": "object",
             "properties": {},
-            "additionalProperties": False,
+
         },
     },
     {
@@ -138,7 +138,7 @@ CUSTOM_TOOLS = [
                 },
             },
             "required": ["items"],
-            "additionalProperties": False,
+
         },
     },
     {
@@ -148,7 +148,7 @@ CUSTOM_TOOLS = [
         "input_schema": {
             "type": "object",
             "properties": {},
-            "additionalProperties": False,
+
         },
     },
     {
@@ -158,7 +158,7 @@ CUSTOM_TOOLS = [
         "input_schema": {
             "type": "object",
             "properties": {},
-            "additionalProperties": False,
+
         },
     },
     {
@@ -183,7 +183,7 @@ CUSTOM_TOOLS = [
                 },
             },
             "required": ["slug"],
-            "additionalProperties": False,
+
         },
     },
     {
@@ -201,7 +201,7 @@ CUSTOM_TOOLS = [
                     "maximum": 100,
                 }
             },
-            "additionalProperties": False,
+
         },
     },
     {
@@ -219,7 +219,7 @@ CUSTOM_TOOLS = [
                 }
             },
             "required": ["token"],
-            "additionalProperties": False,
+
         },
     },
     {
@@ -237,7 +237,7 @@ CUSTOM_TOOLS = [
                     "maximum": 100,
                 }
             },
-            "additionalProperties": False,
+
         },
     },
 ]
