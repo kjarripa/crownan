@@ -75,7 +75,6 @@ CUSTOM_TOOLS = [
                 },
             },
             "required": ["query"],
-
         },
     },
     {
@@ -93,7 +92,6 @@ CUSTOM_TOOLS = [
                 }
             },
             "required": ["sku"],
-
         },
     },
     {
@@ -103,7 +101,6 @@ CUSTOM_TOOLS = [
         "input_schema": {
             "type": "object",
             "properties": {},
-
         },
     },
     {
@@ -138,7 +135,6 @@ CUSTOM_TOOLS = [
                 },
             },
             "required": ["items"],
-
         },
     },
     {
@@ -148,7 +144,6 @@ CUSTOM_TOOLS = [
         "input_schema": {
             "type": "object",
             "properties": {},
-
         },
     },
     {
@@ -158,7 +153,6 @@ CUSTOM_TOOLS = [
         "input_schema": {
             "type": "object",
             "properties": {},
-
         },
     },
     {
@@ -183,7 +177,6 @@ CUSTOM_TOOLS = [
                 },
             },
             "required": ["slug"],
-
         },
     },
     {
@@ -201,7 +194,6 @@ CUSTOM_TOOLS = [
                     "maximum": 100,
                 }
             },
-
         },
     },
     {
@@ -219,7 +211,6 @@ CUSTOM_TOOLS = [
                 }
             },
             "required": ["token"],
-
         },
     },
     {
@@ -237,7 +228,6 @@ CUSTOM_TOOLS = [
                     "maximum": 100,
                 }
             },
-
         },
     },
 ]
